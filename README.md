@@ -13,4 +13,12 @@
 </div>
  <H1>Sobre mim</H1>
 <p>Sou desenvolvedor Full Stack apaixonado por Tecnologia e Inovação, estou sempre em busca em aprender mais. Atualmente estou cursando o  4º periodo do curso de Sistemas de Informação na Faculdade COTEMIG, buscando me aprimorar em desenvolvimento de sofware. Além de programar, gosto de assistir séries, lê um bom livro, ouvir música e explorar novos lugares.</p>
+
+##<h1>Skill</h1>
+<p>FrontEnd</p>
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-020114?logo=html5&style=for-square)
+
+
  <p>⚠️ Este perfil está em atualização!</p>
