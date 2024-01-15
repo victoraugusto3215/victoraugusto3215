@@ -44,7 +44,7 @@
 
  - **Mobile**:
 <br>
-![Swift](https://img.shields.io/badge/-Swift-000?style=for-the-badge&logo=Swift&labelColor=000&textColor=FFF)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-000?style=for-the-badge&logo=Kotlin&labelColor=000&textColor=FFF)&nbsp;
+![Swift](https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=Swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
    
  <p>⚠️ Este perfil está em atualização!</p>
