@@ -26,7 +26,6 @@
 
 <br>
 
-
 - **Back-End Development**:
   <br>
   ![CSharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -40,4 +39,12 @@
 <br>
 ![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![OracleSQL](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+
+<br>
+
+ - **Mobile**:
+<br>
+![Swift](https://img.shields.io/badge/-Swift-000?style=for-the-badge&logo=Swift&labelColor=000&textColor=FFF)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?style=for-the-badge&logo=Kotlin&labelColor=000&textColor=FFF)&nbsp;
+   
  <p>⚠️ Este perfil está em atualização!</p>
