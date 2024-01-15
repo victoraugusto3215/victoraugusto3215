@@ -12,5 +12,5 @@
  <a href="https://gitlab.com/victoraugusto3215"><img src="https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white"></a>
 </div>
  <H1>Sobre mim</H1>
-<p>Sou desenvolvedor Full Stack apaixonado por Tecnologia e Inovação, estou sempre em busca em aprender mais. Atualmente estou cursando o  4º periodo do curso de Sistemas de Informação na Faculdade COTEMIG, buscando me desenvolver em desenvolvimento de sofware. Além de programar, gosto de assistir séries, lê um bom livro, ouvir música e explorar novos lugares.</p>
+<p>Sou desenvolvedor Full Stack apaixonado por Tecnologia e Inovação, estou sempre em busca em aprender mais. Atualmente estou cursando o  4º periodo do curso de Sistemas de Informação na Faculdade COTEMIG, buscando me aprimorar em desenvolvimento de sofware. Além de programar, gosto de assistir séries, lê um bom livro, ouvir música e explorar novos lugares.</p>
  <p>⚠️ Este perfil está em atualização!</p>
