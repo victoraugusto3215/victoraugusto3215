@@ -11,10 +11,10 @@
   <a href="mailto:victoraugusto3215@gmail.com?subject=Visitante%20do%20GitHub&body=Ol%C3%A1%20Victor%2C%20tudo%20bem%3F%0D%0ATe%20encontrei%20no%20GitHub%2C%20gostaria%20de%20conhecer%20melhor%20seus%20projetos.%0D%0AAtenciosamente%2C%0D%0ANOME%0D%0ACONTATO"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"></a>
  <a href="https://gitlab.com/victoraugusto3215"><img src="https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white"></a>
  <a href="https://api.whatsapp.com/send/?phone=%2B5531989656108&text=Ol%C3%A1%2C+Victor.+Tudo+bem%3F+Te+encontrei+pelo+seu+GITHUB.&type=phone_number&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
- <H1>Sobre mim</H1>
-<p>Sou desenvolvedor Full Stack apaixonado por Tecnologia e Inovação, estou sempre em busca de aprender mais. Atualmente estou cursando o  4º periodo do curso de Sistemas de Informação na Faculdade COTEMIG, buscando me aprimorar em desenvolvimento de sofware. Além de programar, gosto de assistir séries, lê um bom livro, ouvir música e explorar novos lugares.</p>
+ <H1 align="left">Sobre mim</H1>
+<p align="left">Sou desenvolvedor Full Stack apaixonado por Tecnologia e Inovação, estou sempre em busca de aprender mais. Atualmente estou cursando o  4º periodo do curso de Sistemas de Informação na Faculdade COTEMIG, buscando me aprimorar em desenvolvimento de sofware. Além de programar, gosto de assistir séries, lê um bom livro, ouvir música e explorar novos lugares.</p>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <div align="left"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" align="left"><b align="left"> Skills</b></div>
 <br>
 
 - **Front-End Development**:
@@ -50,4 +50,3 @@
    ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
 
    <br>
- <p>⚠️ Este perfil está em atualização!</p>
